@@ -1,0 +1,15 @@
+.auth-container {
+
+    &__pane {
+        position: relative;
+    }
+
+    &__spinner {
+        position: absolute;
+        z-index: 900;
+    }
+}
+
+.ub-strk_rgba67-90-111-0-47 {
+    stroke: rgb(255 255 255 / 80%);
+}
